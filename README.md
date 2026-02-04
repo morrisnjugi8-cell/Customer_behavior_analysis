@@ -83,11 +83,11 @@ Data was cleaned to improve quality and reliability.
 
 Cleaning steps:
 
-*Missing Data Handling
-*Column Standardization
-*Feature Engineering
-*Data Consistency Check
-*Database Integration
+* Missing Data Handling
+* Column Standardization
+* Feature Engineering
+* Data Consistency Check
+* Database Integration
 
 Clean dataset was exported for SQL analysis.
 
